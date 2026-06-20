@@ -1,3 +1,5 @@
-OpenAi
-fastApi
+openai
 dotenv
+fastapi
+pydantic
+uvicorn
